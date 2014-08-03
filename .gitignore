@@ -1,0 +1,15 @@
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*.log
+/tmp
+/public/uploads
+/public/images
+/public/images/emoji
+/public/sitemap.xml.gz
+/config/deploy/*.rb
+/config/deploy.rb
+/config/secrets.yml
+/config/database.yml
+/config/newrelic.yml
+/config/redis.conf
